@@ -48,7 +48,7 @@
 
 ### 🌐 Let's Connect
 
-- 📎 [LinkedIn](www.linkedin.com/in/mohd-umar-siddiqui-23b605257/)
+- 📎 [LinkedIn](https://www.linkedin.com/in/mohd-umar-siddiqui-23b605257/)
 
 ---
 
