@@ -8,7 +8,7 @@
 
 ### 🔍 About Me
 
-- 🔭 Currently an intern at **CODSOFT**, working on real-world ML projects  
+- 🔭 Currently working on real-world ML projects  
 - 🌱 Exploring Deep Learning, NLP, and Time Series Forecasting  
 - 💬 Ask me about Python, Machine Learning, or anything tech-related  
 - 📫 Reach me at: **mdumarsiddique2@gmail.com**
